@@ -1,7 +1,7 @@
 # postman
 # Báo cáo Thực hành Kiểm thử API với Postman
 
-**Sinh viên thực hiện:** Nguyễn Xuân Thanh  
+**Người kiểm thử:** Nguyễn Xuân Thanh  
 
 ## 1. Mục tiêu thực hành
 - Sử dụng Postman để gửi các HTTP Request (GET, POST) tới hệ thống API (reqres.in).
